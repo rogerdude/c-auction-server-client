@@ -1,7 +1,7 @@
 /*
  * auctionclient
  * CSSE2310 A4
- * 47435278 - Hamza Khurram
+ * Author: Hamza
  */
 
 #include <csse2310a4.h>
